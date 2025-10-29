@@ -1,2 +1,5 @@
-# Guess-the-number
-Game: The computer picks a random number between 1–100.  The user gets 5 guesses.  After each wrong guess, the program gives hints (“Go higher” / “Go lower”).  On the last guess, it gives a major hint — a 5-number range around the actual number.
+🎯 Guess the Number (Java Console Game)
+
+A fun number-guessing game built using Java.
+The computer randomly picks a number within a specified range, and the player tries to guess it in as few attempts as possible.
+After each guess, the program gives hints like “Too high” or “Too low” until the player finds the correct number.
